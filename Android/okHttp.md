@@ -1,0 +1,3 @@
+#  okHttp
+
+在Retrofit中，无论是发送数据和接收数据，都是通过OKHttp的RequestBody和ResponseBody来实现的。在实际项目中，有时候原始的RequestBody或是ResponseBody并不能满足我们的需求（如接口加密），就需要对它进行转换。
