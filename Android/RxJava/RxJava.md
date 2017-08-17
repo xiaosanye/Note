@@ -7,4 +7,3 @@
 >Looper 重要方法：**loop()**
 
 1.2 、使用AsyncTask
->
