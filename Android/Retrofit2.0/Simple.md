@@ -80,4 +80,4 @@ call.enqueue(new Callback<ResponseBody>() {
 
 [你真的会用Retrofit2吗?Retrofit2完全教程](http://www.jianshu.com/p/308f3c54abdd)
 
-
+[你真的会用Gson吗?Gson使用指南](http://www.jianshu.com/p/e740196225a4)
